@@ -24,4 +24,6 @@ public class CalculatorTest {
     public void testDivide() {
         Assertions.assertEquals(2, calculator.divide(4,2));
     }
+
+    //this is a comment
 }
